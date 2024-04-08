@@ -1,16 +1,25 @@
-### Hi there 👋
+# About Me - README
 
-<!--
-**renzaspiras/renzaspiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+Hey there! Welcome to my GitHub profile. I'm Renz Cruz Aspiras, a passionate programmer with expertise in a variety of programming languages and technologies. This README serves as an introduction to who I am and what I do.
 
-Here are some ideas to get you started:
+## Skills
+As a programmer, I have proficiency in the following languages and technologies:
+- Python
+- Java
+- C#
+- PHP
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- React.js
+- Bash Scripting
+- GDScript
+- And more...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contributions
+I'm always open to contributions and feedback. If you find any issues or have ideas for improvements in my projects, please don't hesitate to create a pull request or open an issue.
+
+## Goal
+Resilient, striving to be better,
