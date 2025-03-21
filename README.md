@@ -6,7 +6,7 @@ Hey there! Welcome to my GitHub profile. I'm Renz Cruz Aspiras, a passionate pro
 ## Skills
 
 ### Programming Languages
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg" alt="Python" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Dark.svg" alt="Java" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" alt="C#" width="50"/>
@@ -17,7 +17,7 @@ Hey there! Welcome to my GitHub profile. I'm Renz Cruz Aspiras, a passionate pro
 </div>
 
 ### Web Development
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" alt="HTML" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" alt="CSS" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Bootstrap.svg" alt="Bootstrap" width="50"/>
@@ -27,7 +27,7 @@ Hey there! Welcome to my GitHub profile. I'm Renz Cruz Aspiras, a passionate pro
 </div>
 
 ### Development Tools
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Bash-Dark.svg" alt="Bash" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" alt="Git" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Dark.svg" alt="Github" width="50"/>
@@ -37,7 +37,7 @@ Hey there! Welcome to my GitHub profile. I'm Renz Cruz Aspiras, a passionate pro
 </div>
 
 ### Game Development
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Godot-Dark.svg" alt="Godot" width="50"/>
 </div>
 
