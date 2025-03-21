@@ -41,11 +41,11 @@ Hey there! Welcome to my GitHub profile. I'm Renz Cruz Aspiras, a passionate pro
 </div>
 
 ### Cloud and DevOps
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=9f7d44106a5b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Azure-Dark.svg" alt="Azure" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Cloudflare-Dark.svg" alt="Cloudflare" width="50"/>
 </div>
-
 ### Game Development
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Godot-Dark.svg" alt="Godot" width="50"/>
