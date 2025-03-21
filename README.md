@@ -7,7 +7,6 @@ Hey there! Welcome to my GitHub profile. I'm Renz Cruz Aspiras, a passionate pro
 As a programmer, I have proficiency in the following languages and technologies:
 
 ![Python](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg)
-
 ![Java](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Dark.svg)
 ![C#](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg)
 ![PHP](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PHP-Dark.svg)
