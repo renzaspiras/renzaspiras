@@ -4,7 +4,7 @@
 Hey there! Welcome to my GitHub profile. I'm Renz Cruz Aspiras, a passionate programmer with expertise in a variety of programming languages and technologies. This README serves as an introduction to who I am and what I do.
 
 ## Skills
-***
+
 ### Programming Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg" alt="Python" width="50"/>
