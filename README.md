@@ -32,13 +32,31 @@ Hey there! Welcome to my GitHub profile. I'm Renz Cruz Aspiras, a passionate pro
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" alt="Git" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Dark.svg" alt="Github" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg" alt="Linux" width="50"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Arch-Dark.svg" alt="Arch" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Windows-Dark.svg" alt="Windows" width="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" width="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NeoVim-Dark.svg" alt="NeoVim" width="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Obsidian-Dark.svg" alt="Obsidian" width="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" alt="Docker" width="50"/>
+</div>
+
+### Cloud and DevOps
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Azure-Dark.svg" alt="Azure" width="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Cloudflare-Dark.svg" alt="Cloudflare" width="50"/>
 </div>
 
 ### Game Development
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Godot-Dark.svg" alt="Godot" width="50"/>
+</div>
+
+### Other
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DiscordBots.svg" alt="Discord Bots" width="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DiscordJS-Dark.svg" alt="DiscordJS" width="50"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Discord.svg" alt="Discord" width="50"/>
 </div>
 
 ## Contributions
