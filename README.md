@@ -1,7 +1,7 @@
 # About Me - README
 
 ## Introduction
-Hey there! Welcome to my GitHub profile. I'm Renz Cruz Aspiras, a passionate programmer with expertise in a variety of programming languages and technologies. This README serves as an introduction to who I am and what I do.
+Hey there! Welcome to my GitHub profile. I'm Renz Ateinza Cruz Tejada Aspiras, a passionate programmer with expertise in a variety of programming languages and technologies. This README serves as an introduction to who I am and what I do.
 
 ## Skills
 
